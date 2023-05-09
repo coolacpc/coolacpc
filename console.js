@@ -5,3 +5,6 @@ console.log("Wut?")
 function main() {
 retun null;
 }
+main()
+
+console.log(main)
